@@ -1,5 +1,5 @@
 {
-  "name": "my-turborepo",
+  "name": "rollet_clone",
   "private": true,
   "scripts": {
     "build": "turbo run build",
